@@ -9029,13 +9029,13 @@ h1, h2, h3, h4, h5,
 .form-control {
   height: 52px !important;
   background: #fafafa !important;
-  color: #fafafa !important;
+  color: #080808 !important;
   font-size: 18px;
   border-radius: 5px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important; }
   .form-control:focus, .form-control:active {
-    border-color: #fafafa; }
+    border-color: #080808; }
 
 textarea.form-control {
   height: inherit !important; }
